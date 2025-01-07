@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**week 1: Survey Data Analysis**
+# **week 1: Survey Data Analysis**
 
 this week was focused on collecting visitor survey data,cleaning it up, and exploring insights.
 My goal for the week was to successfully complete a set of tasks related to survey data collection, data cleaning, and basic analysis using Power BI and Excel.
@@ -26,10 +26,10 @@ I started with simple data aggregation and visualization tasks. Such as gender, 
 Creating the visualization graphs for the visitor satisfaction scores presented some challenges due to the pivoted nature of the data. It required additional data cleaning and formatting to ensure it could be properly integrated into Power BI for effective analysis.
 First i created a new excel sheet and copied the data there, then i unpivoted the columns using Power Query Editor tool in excel.
 
-Data before cleaning:
+### Data before cleaning:
 ![image](https://github.com/user-attachments/assets/a2ae815c-a969-45ed-b164-14791306e2d9)
 
-## Data after cleaning:
+### Data after cleaning:
 
 ![image](https://github.com/user-attachments/assets/794d0480-590d-415a-97ec-efa9b45cf3ec)
 
