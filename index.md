@@ -36,8 +36,7 @@ Data after cleaning:
 
 Learnings and Insights:
 
-One of the most important things I learned this week was the value of data cleaning. I had assumed that data from a survey would be relatively clean, but I quickly realized that inconsistencies are common, 
-especially when the data is entered manually. 
+This week, I learned the benifit of data cleaning in the analysis process. Initially, I believed that survey data could be directly used to create graphs. However, I discovered that it is important to organize and define the relationships between the data points effectively. By doing so, I was able to generate clear, meaningful visualizations that accurately represent the insights derived from the data.
 
 I also learned the importance of choosing the right tool for each task. While Excel was great for cleaning up the data, Power BI allowed me to efficiently visualize the data which helped me identify patterns that might not have been obvious from the raw data alone.
 
