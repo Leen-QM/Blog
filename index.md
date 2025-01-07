@@ -14,7 +14,7 @@ Once I had collected the survey results through Microsoft Forms, I downloaded th
 
 There were a few enteries that needed to be unpivoted to simplify the process of creating visuals in Power BI. I used Excel to manually clean up the data.
 
-![Branching](![image](https://github.com/user-attachments/assets/cd75db35-6d57-4d54-aa09-02aa41bcdf88)
+![image](https://github.com/user-attachments/assets/cd75db35-6d57-4d54-aa09-02aa41bcdf88)
 
 
 
