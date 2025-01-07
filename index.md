@@ -23,7 +23,14 @@ I started with simple data aggregation and visualization tasks. Such as gender, 
 ![image](https://github.com/user-attachments/assets/cd75db35-6d57-4d54-aa09-02aa41bcdf88)
 
 
-**I created a few bar charts to visualize the distribution of visitor satisfaction scores and to understand common themes in the open-ended feedback.
+Creating the visualization graphs for the visitor satisfaction scores presented some challenges due to the pivoted nature of the data. It required additional data cleaning and formatting to ensure it could be properly integrated into Power BI for effective analysis.
+First i created a new excel sheet and copied the data there, then i unpivoted the columns using Power Query Editor tool in excel.
+
+Data before cleaning:
+![image](https://github.com/user-attachments/assets/a2ae815c-a969-45ed-b164-14791306e2d9)
+
+Data after cleaning:
+![image](https://github.com/user-attachments/assets/794d0480-590d-415a-97ec-efa9b45cf3ec)
 
 
 Learnings and Insights:
