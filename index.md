@@ -33,6 +33,10 @@ Data after cleaning:
 
 ![image](https://github.com/user-attachments/assets/794d0480-590d-415a-97ec-efa9b45cf3ec)
 
+After cleaning the data, I was able to present them using the stacked bar chart.
+![image](https://github.com/user-attachments/assets/ff1643d8-625a-44be-b8aa-e23defe952b6)
+
+
 
 
 **Learnings and Insights:**
