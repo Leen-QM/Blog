@@ -14,8 +14,12 @@ Once I had collected the survey results through Microsoft Forms, I downloaded th
 
 There were a few enteries that needed to be unpivoted to simplify the process of creating visuals in Power BI. I used Excel to manually clean up the data.
 
+![Branching](![image](https://github.com/user-attachments/assets/cd75db35-6d57-4d54-aa09-02aa41bcdf88)
+
+
+
 In the next step, I exported the cleaned data into Power BI to create the dashboard. 
-I started with simple data aggregation and visualization tasks. Such as gender, age, and motivation behind their visit.
+I started with simple data aggregation and visualization tasks. Such as gender, age, etc.
 
 **I created a few bar charts to visualize the distribution of visitor satisfaction scores and to understand common themes in the open-ended feedback.
 
