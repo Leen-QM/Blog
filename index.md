@@ -34,7 +34,8 @@ Data after cleaning:
 ![image](https://github.com/user-attachments/assets/794d0480-590d-415a-97ec-efa9b45cf3ec)
 
 
-Learnings and Insights:
+
+**Learnings and Insights:**
 
 This week, I learned the benifit of data cleaning in the analysis process. Initially, I believed that survey data could be directly used to create graphs. However, I discovered that it is important to organize and define the relationships between the data points effectively. By doing so, I was able to generate clear, meaningful visualizations that accurately represent the insights derived from the data.
 
