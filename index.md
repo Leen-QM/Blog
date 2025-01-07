@@ -8,6 +8,7 @@ this week was focused on collecting visitor survey data,cleaning it up, and expl
 My goal for the week was to successfully complete a set of tasks related to survey data collection, data cleaning, and basic analysis using Power BI and Excel.
 
 At the start of the week, I began by filling out 10 visitor surveys based on different visitor profiles. Trying to represent a diverse set of responses.
+
 ![image](https://github.com/user-attachments/assets/1795b879-81b7-436b-ad6a-eb865275d29c)
 
 
