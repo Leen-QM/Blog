@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **week 1: Survey Data Analysis**
+## **week 1: Survey Data Analysis**
 
 this week was focused on collecting visitor survey data,cleaning it up, and exploring insights.
 My goal for the week was to successfully complete a set of tasks related to survey data collection, data cleaning, and basic analysis using Power BI and Excel.
