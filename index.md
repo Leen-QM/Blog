@@ -7,7 +7,9 @@ layout: default
 this week was focused on collecting visitor survey data,cleaning it up, and exploring insights.
 My goal for the week was to successfully complete a set of tasks related to survey data collection, data cleaning, and basic analysis using Power BI and Excel.
 
-At the start of the week, I began by filling out 10 visitor surveys based on different visitor profiles. This was crucial for ensuring that the data represented a diverse set of responses.
+At the start of the week, I began by filling out 10 visitor surveys based on different visitor profiles. Trying to represent a diverse set of responses.
+![image](https://github.com/user-attachments/assets/1795b879-81b7-436b-ad6a-eb865275d29c)
+
 
 The survey was structured to gather feedback on various aspects of the visitor experience, such as satisfaction and preferences regarding Multimedia used in the museum .
 Once I had collected the survey results through Microsoft Forms, I downloaded the raw data. The first challenge I faced was cleaning the data. 
