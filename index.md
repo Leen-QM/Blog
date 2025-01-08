@@ -4,7 +4,7 @@ layout: default
 
 ## **week 1: Survey Data Analysis**
 
-this week was focused on survey data collection, data cleaning, and basic analysis using Power BI and Excel.
+This week was focused on survey data collection, data cleaning, and basic analysis using Power BI and Excel.
 At the start of the week, I began by filling out 10 visitor surveys based on different visitor profiles. Trying to represent a diverse set of responses.
 
 ![image](https://github.com/user-attachments/assets/1795b879-81b7-436b-ad6a-eb865275d29c)
@@ -13,7 +13,7 @@ At the start of the week, I began by filling out 10 visitor surveys based on dif
 The survey was structured to gather feedback on various aspects of the visitor experience, such as satisfaction and preferences regarding Multimedia used in the museum .
 Once I had collected the survey results through Microsoft Forms, I downloaded the raw data. The first challenge I faced was cleaning the data. 
 
-There were a few enteries that needed to be unpivoted to simplify the process of creating visuals in Power BI. I used Excel to manually clean up the data.
+There were a few entries that needed to be unpivoted to simplify the process of creating visuals in Power BI. I used Excel to manually clean up the data.
 
 In the next step, I exported the cleaned data into Power BI to create the dashboard. 
 I started with simple data aggregation and visualization tasks. Such as gender, age, etc.
@@ -40,6 +40,6 @@ After cleaning the data, I was able to present them using the stacked bar chart.
 
 
 
-This week, I learned the benifit of data cleaning in the analysis process. Initially, I believed that survey data could be directly used to create graphs. However, I discovered that it is important to organize and define the relationships between the data points effectively. By doing so, I was able to generate clear, meaningful visualizations that accurately represent the insights derived from the data.
+This week, I learned the benefit of data cleaning in the analysis process. Initially, I believed that survey data could be directly used to create graphs. However, I discovered that it is important to organize and define the relationships between the data points effectively. By doing so, I was able to generate clear, meaningful visualizations that accurately represent the insights derived from the data.
 I also learned the importance of choosing the right tool for each task. While Excel was great for cleaning up the data, Power BI allowed me to efficiently visualize the data which helped me identify the patterns across the collected data.
 
