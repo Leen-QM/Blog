@@ -4,9 +4,7 @@ layout: default
 
 ## **week 1: Survey Data Analysis**
 
-this week was focused on collecting visitor survey data,cleaning it up, and exploring insights.
-My goal for the week was to successfully complete a set of tasks related to survey data collection, data cleaning, and basic analysis using Power BI and Excel.
-
+this week was focused on survey data collection, data cleaning, and basic analysis using Power BI and Excel.
 At the start of the week, I began by filling out 10 visitor surveys based on different visitor profiles. Trying to represent a diverse set of responses.
 
 ![image](https://github.com/user-attachments/assets/1795b879-81b7-436b-ad6a-eb865275d29c)
@@ -24,7 +22,7 @@ I started with simple data aggregation and visualization tasks. Such as gender, 
 
 
 Creating the visualization graphs for the visitor satisfaction scores presented some challenges due to the pivoted nature of the data. It required additional data cleaning and formatting to ensure it could be properly integrated into Power BI for effective analysis.
-First i created a new excel sheet and copied the data there, then i unpivoted the columns using Power Query Editor tool in excel.
+First i created a new excel sheet and copied the data there, then i unpivoted the columns using Power Query Editor tool in Excel.
 
 ### Data before cleaning:
 ![image](https://github.com/user-attachments/assets/a2ae815c-a969-45ed-b164-14791306e2d9)
@@ -43,5 +41,5 @@ After cleaning the data, I was able to present them using the stacked bar chart.
 
 
 This week, I learned the benifit of data cleaning in the analysis process. Initially, I believed that survey data could be directly used to create graphs. However, I discovered that it is important to organize and define the relationships between the data points effectively. By doing so, I was able to generate clear, meaningful visualizations that accurately represent the insights derived from the data.
-I also learned the importance of choosing the right tool for each task. While Excel was great for cleaning up the data, Power BI allowed me to efficiently visualize the data which helped me identify patterns that might not have been obvious from the raw data alone.
+I also learned the importance of choosing the right tool for each task. While Excel was great for cleaning up the data, Power BI allowed me to efficiently visualize the data which helped me identify the patterns across the collected data.
 
