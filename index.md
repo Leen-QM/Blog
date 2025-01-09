@@ -33,7 +33,8 @@ First i created a new excel sheet and copied the data there, then i unpivoted th
 
 After cleaning the data, I was able to present them using the stacked bar chart.
 
-![image](https://github.com/user-attachments/assets/80400cd7-eb72-47ce-ac37-72fa31da8b41)
+![image](https://github.com/user-attachments/assets/8eaef5b6-caf2-4e34-8288-b965cb25b5b1)
+
 
 
 
