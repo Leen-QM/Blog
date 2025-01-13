@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Another page
+title: week 2
 description: This is just another page
 ---
 
