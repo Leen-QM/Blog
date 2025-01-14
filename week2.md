@@ -14,7 +14,7 @@ This week was focused on reusing an existing open source code to create an audio
 
 The first step was to fork the ACMI repository (<https://github.com/ACMILabs/static-museum-audio-guide>) to my github account and customize it for the "Manzar" exhibition. I decided to experiment with developing an Arabic audio guide and evaluating the ability of existing text-to-speech programs to produce high-quality Arabic audios. It turned out that several tools produced good Arabic audios. but they required some fixing such as adding diacritical marks to improve the pronunciation of some words.
 
-### link to Manzar exhibition: 
+#### link to Manzar exhibition: 
 <https://nmoq.org.qa/en/calendar/manzar-exhibition/about-the-galleries/>
 
 The main challenge I faced during this task was understanding the code in detail, as I was unfamiliar with jekyll framework. While the platform was well-organized, Jekyll’s templating system, combined with its use of Markdown files, caused me to spend some time leaarning how everything was structured.This helped me gain a deeper understanding of static site generation and how I could modify the code to suit my needs.
