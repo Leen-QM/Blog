@@ -23,7 +23,7 @@ The main challenge I faced during this task was understanding the code in detail
 ![image](https://github.com/user-attachments/assets/121033c9-5178-4a89-8c07-1ed65d3ab876)
 
 
-#### A link to the live audioguide: https://leen-qm.github.io/leen-qm-audio-guide
+#### A link to the live audioguide: <https://leen-qm.github.io/leen-qm-audio-guide>
 
 This week, I learned about the flexibility of Static Sites. After becoming used to jekyl, the platform was easy to modify and adapt to different types of exhibitions. This flexibility allowed me to quickly add content related to the chosen exhibiton.
 
