@@ -19,7 +19,7 @@ The first step was to fork the ACMI repository (https://github.com/ACMILabs/stat
 The main challenge I faced during this task was understanding the code in detail, as I was unfamiliar with jekyll framework. While the platform was well-organized, Jekyll’s templating system, combined with its use of Markdown files, caused me to spend some time leaarning how everything was structured.This helped me gain a deeper understanding of static site generation and how I could modify the code to suit my needs.
 
 
-### Screenshots of the guide in action:
+### Screenshots of the created audio guide for Manzar exhibition:
 ![image](https://github.com/user-attachments/assets/121033c9-5178-4a89-8c07-1ed65d3ab876)
 
 
