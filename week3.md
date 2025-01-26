@@ -15,8 +15,7 @@ The next step was to scrape the collected web pages for biography content and cl
 
 
 #### Named Entity Recognition
-After scraping the  biography content, i used the GLiNER model - which is a pre-trained multilangual model for extracting named entities- to identify and classify the biography into multiple entity labels such as: People names, countries, and dates.
-
+After scraping the biography content, I used the GLiNER model—which is a pre-trained multilingual model for extracting named entities—to identify and classify the biography into multiple entity labels such as people names, countries, and dates.
 
 #### Data Analysis
 Once the entities were correctly identified, I exported the data into a table that included the entity type and the count of occurrences. A CSV file was created for each webpage and which contained: 
