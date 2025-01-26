@@ -6,7 +6,7 @@ This week was focused on exploring text mining techniques and implementing Named
 ### The task was devided into the following steps:
 
 #### Web Crawling
-The fisrt step was to implement a web crawler that navigates through the base URL and collect all the biography subpages that contain `/bios/Pages` in their URL. Using two python libraries such as "requests" and "BeautifulSoup", I was able to identify all the relevant URLs that Contiain artists Biographies.
+The fisrt step was to implement a web crawler that navigates through the base URL and collect all the biography subpages that contain `/bios/Pages` in their URL. Using two python libraries such as "requests" and "BeautifulSoup", I was able to identify all the relevant URLs that Contiain artists' Biographies.
 ![image](https://github.com/user-attachments/assets/5c33be3c-4bb9-4bd5-9cd8-64be91e9d252)
 
 
