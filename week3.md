@@ -13,37 +13,33 @@ This week was focused on exploring text mining techniques and implementing Named
 
 #### Web Crawling
 The fisrt step was to implement a web crawler that navigates through the base URL and collect all the biography subpages that contain `/bios/Pages` in their URL. Using two python libraries such as "requests" and "BeautifulSoup", I was able to identify all the relevant URLs that Contiain artists Biographies.
-
-(image)
+![image](https://github.com/user-attachments/assets/5c33be3c-4bb9-4bd5-9cd8-64be91e9d252)
 
 
 #### Web Scrapping
 The next step was to scrape the collected web pages for biography content and clean the HTML code extracted from these webpages. The main challenge in this step was the inconsistent HTML structure across different pages, which made it harder to bound the biography between two HTML tags. To solve this, I decided to locate and extract text placed between two H1 headers which are "Biography" and "Exhibitions".
 
-(image)
 
 #### Named Entity Recognition
 After scraping the  biography content, i used the GLiNER model - which is a pre-trained multilangual model for extracting named entities- to identify and classify the biography into multiple entity labels such as: People names, countries, and dates.
 
-(image)
 
 #### Data Analysis
-Once the entities were correctly identified,  I exported the data into a table that included the entity type and the count of occurrences. A CSV file was created for each webpage and which contained: 
+Once the entities were correctly identified, I exported the data into a table that included the entity type and the count of occurrences. A CSV file was created for each webpage and which contained: 
 - the URL of the webpage
-- the identified entites
+- the identified entities
 - entity labels
 - the frequency of each entity across the webpage
 
-  (image)
+![image](https://github.com/user-attachments/assets/67ac5c51-855d-4805-a4c2-8b1c32f1b832)
+
 
 #### Data Visualizing
-After cleaning the data, I was able to present it using "WordVloud' library to generate a word cloud for each webpage. The library extracted the entities and their frequencies from the CSV files and created word clouds that highlighted the most frequent words.
+After cleaning the data, I was able to present it using the "WordCloud' library to generate a word cloud for each webpage. The library extracted the entities and their frequencies from the CSV files and created word clouds that highlighted the most frequent words.
 
-(Image)
-
-This week, I learned the importance of text preprocessing and the role of stemming and stop words in NER. Initially, I thought that text could be directly analyzed for entities, but I realized that cleaning and structuring the data is essential for accurate results. By processing the text and organizing the entities, I was able to create clearer visualizations that showed meaningful insights about the document's content. I also discovered the power of Python libraries like spaCy for automating the extraction of named entities, which greatly sped up the process.
+![image](https://github.com/user-attachments/assets/0154e571-8935-4873-a3aa-f175cd21d453)
 
 
-This week, I gained practical experience in web crawling and web scraping using Python. I also learned how to handle inconsistent data and extract valuable insights using NER. By organizing the entities into structured data and generating visualizations, I was able to effectively analyze and present the extracted information. The process highlighted the importance of clean data extraction, proper entity categorization, and the role of custom functions in improving the accuracy of entity recognition.
+This week, I got hands-on experience with web crawling and scraping in Python. I also learned how to deal with inconsistencies in data and extract good insights using NER. I was able to successfully analyse and present the retrieved information by grouping the items into structured data and creating graphics such as word clouds.
 
 
