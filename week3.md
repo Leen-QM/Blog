@@ -34,6 +34,7 @@ After cleaning the data, I was able to present it using the "WordCloud' library 
 ![image](https://github.com/user-attachments/assets/0154e571-8935-4873-a3aa-f175cd21d453)
 
 
+
 This week, I got hands-on experience with web crawling and scraping in Python. I also learned how to deal with inconsistencies in data and extract good insights using NER. I was able to successfully analyse and present the retrieved information by grouping the items into structured data and creating graphics such as word clouds.
 
 
