@@ -1,7 +1,7 @@
 
 ## **Week 3: Text mining and Named entity recognition**
 
-This week was focused on exploring text mining techniques and implementing Named Entity Recognition (NER) to analyze and extract valuable information from museum encyclopedias. I have aimed to develop a system for identifying, counting, and visualizing entities in a word cloud. The task also involves extending this approach to multiple URLs or entire directories.
+This week was focused on exploring text mining techniques and implementing Named Entity Recognition (NER) to analyze and extract valuable information from museum encyclopedias. I have aimed to develop a system for identifying, counting, and visualizing entities in a word cloud. The task also involves extending this approach to multiple URLs.
 
 ### The task was devided into the following steps:
 
