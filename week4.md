@@ -24,10 +24,6 @@ In addition to the individual CSV files for each page, a single CSV was created 
 
 #### 4. User-Configurable
 users are allowed to specify their extraction preferences by specifying the following choices:
-  1- the type of website if it is an encyclopedia or collection
-  2- if they prefere to crawl the whole website or just a singl web page
-  3- if they chose to crawl the whole website then they can specify the path they would like to crawl
-  4- specifying the start phrase and end phrase of the content they want to scrape
 ![image](https://github.com/user-attachments/assets/adee0dc1-d7e8-440a-b94d-3b3963a0e760)
 
   
