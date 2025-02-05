@@ -1,4 +1,4 @@
-## Week 3: Text Mining and Named Entity Recognition
+## Week 4: Text Mining and Named Entity Recognition
 
 This week focused on enhancing the system developed in Week 3. The major improvements aimed to address data collection, consistency, and visualization by refining the web crawling process, improving data extraction techniques, comparing different language versions, and packaging the project for future use.
 
