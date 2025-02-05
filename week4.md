@@ -33,5 +33,5 @@ Graph-based tools such as D3.js were used to reveal connections between differen
 
 The project has moved from basic data extraction to meaningful visualization, helping museums make better use of their vast textual resources. By combining automation, entity recognition, and interactive graphs, this tool might enhance how history is curated, studied, and shared with the world.
 
-link to github repo: [https://github.com/Leen-QM/web-scrapping-tool/blob/main/README.md](https://github.com/Leen-QM/web-scrapping-tool/tree/main)
+link to Webscrapping tool: [https://github.com/Leen-QM/web-scrapping-tool/blob/main/README.md](https://github.com/Leen-QM/web-scrapping-tool/tree/main)
 
