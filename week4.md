@@ -1,4 +1,4 @@
-## Week 4: Text Mining and Named Entity Recognition
+## Week 4: Advanced Web Scraping Tool: Enhancements and Improvements
 
 This week focused on enhancing the system developed in Week 3. The major improvements aimed to address data collection, consistency, and visualization by refining the web crawling process, improving data extraction techniques, comparing different language versions, and packaging the project for future use.
 
