@@ -20,6 +20,7 @@ In addition to the individual CSV files for each page, a single CSV was created 
 
 #### 4. User-Configurable
 Users are allowed to specify their extraction preferences by specifying the following choices:
+
 ![image](https://github.com/user-attachments/assets/adee0dc1-d7e8-440a-b94d-3b3963a0e760)
 
   
