@@ -1,39 +1,45 @@
 
 ## **Week 3: Text mining and Named entity recognition**
 
-This week was focused on exploring text mining techniques and implementing Named Entity Recognition (NER) to analyze and extract valuable information from museum encyclopedias. I have aimed to develop a system for identifying, counting, and visualizing entities in a word cloud. The task also involves extending this approach to multiple URLs.
+This week focused on enhancing the system developed in Week 3. The major improvements aimed to address data collection, consistency, and visualization by refining the web crawling process, improving data extraction techniques, comparing different language versions, and packaging the project for future use
 
-### The task was devided into the following steps:
+### New enhancements:
 
-#### Web Crawling
-The first step was to implement a web crawler that navigates through the base URL and collect all the biography subpages that contain `/bios/Pages` in their URL. Using two python libraries such as "requests" and "BeautifulSoup", I was able to identify all the relevant URLs that contain artists' Biographies.
-
-![image](https://github.com/user-attachments/assets/5c33be3c-4bb9-4bd5-9cd8-64be91e9d252)
-
-
-#### Web Scrapping
-The next step was to scrape the collected web pages for biography content and clean the HTML code extracted from these webpages. The main challenge in this step was the inconsistent HTML structure across different pages, which made it harder to bound the biography between two HTML tags. To solve this, I decided to locate and extract text placed between two H1 headers which are "Biography" and "Exhibitions".
+#### 1. Data Collection:
+a. Data Collected from Mathaf Encyclopedia
+I updated the code to successfully scrape all content in the webpage by specifying a start phrase and end phrase, which made it cusotmizable for each website. A "stop phrase" parameter was added, enabling the script to stop extracting content once a specific phrase (e.g., "By visiting this website, viewing, accessing or otherwise using" for Mathaf) is encountered.
+The script was also modified to identify and scrape both English and Arabic biographies.
+This involved detecting language-specific URLs ("/en/" vs. "/ar/") and adapting the scraping to extract data from both versions.
 
 
-#### Named Entity Recognition
-After scraping the biography content, I used the GLiNER model—which is a pre-trained multilingual model for extracting named entities—to identify and classify the biography into multiple entity labels such as people names, countries, and dates.
-
-#### Data Analysis
-Once the entities were correctly identified, I exported the data into a table that included the entity type and the count of occurrences. A CSV file was created for each webpage and which contained: 
-- the URL of the webpage
-- the identified entities
-- entity labels
-- the frequency of each entity across the webpage
-
-![image](https://github.com/user-attachments/assets/67ac5c51-855d-4805-a4c2-8b1c32f1b832)
+#### 2. Named Entity Recognition
+To accommodate the differences in content across the websites, we used distinct entity label lists for each site. Specifically, we tailored the Named Entity Recognition (NER) model to recognize and classify entities relevant to the Mathaf Encyclopedia and QM’s Online Collection, as their biographical data and contexts differed. As a result, each website's data was processed with a customized set of entity labels to ensure accurate and context-specific entity identification.
 
 
-#### Data Visualizing
-After cleaning the data, I was able to present it using the "WordCloud' library to generate a word cloud for each webpage. The library extracted the entities and their frequencies from the CSV files and created word clouds that highlighted the most frequent words.
-
-![image](https://github.com/user-attachments/assets/0154e571-8935-4873-a3aa-f175cd21d453)
+#### 3. Combining Results into a Single CSV
+In addition to the individual CSV files for each page, a single CSV was created to store aggregated data, including URLs, entities, and their frequencies for both English and Arabic versions.
+![image](https://github.com/user-attachments/assets/5eff5753-33b3-4f05-8eaa-79ad2ee7f8b4)
 
 
 
-This week, I got hands-on experience with web crawling and scraping in Python. I also learned how to deal with inconsistencies in data and extract good insights using NER. I was able to successfully analyse and present the retrieved information by grouping the items into structured data and creating graphics such as word clouds.
+#### 4. User-Configurable
+users are allowed to specify their extraction preferences by specifying the following choices:
+  1- the type of website if it is an encyclopedia or collection
+  2- if they prefere to crawl the whole website or just a singl web page
+  3- if they chose to crawl the whole website then they can specify the path they would like to crawl
+  4- specifying the start phrase and end phrase of the content they want to scrape
+![image](https://github.com/user-attachments/assets/adee0dc1-d7e8-440a-b94d-3b3963a0e760)
+
+  
+
+#### 5. interactive visualization
+graph-based tools such as D3.js were used to reveal connections between different entities found in each webpage. these visualizations could allow users to filter entities, and explore the relationships between different artists.
+
+![image](https://github.com/user-attachments/assets/5f7a2ce3-6676-4a4e-9163-7800c6217a19)
+
+
+
+The project has moved from basic data extraction to meaningful visualization, helping museums make better use of their vast textual resources. By cmbining automation, entity recognition, and interactive graphs, this tooll might enhance hoow histor is curated, studied an shared with the world.
+
+link to github repo: [https://github.com/Leen-QM/web-scrapping-tool/blob/main/README.md](https://github.com/Leen-QM/web-scrapping-tool/tree/main)
 
