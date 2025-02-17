@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Start: GLAM-E Lab's Copyright Clearance] --> B{Is the underlying work eligible for copyright protection in your jurisdiction?}
     A --> 1{Is the underlying work eligible for copyright protection?}
@@ -72,3 +73,4 @@ flowchart TD
     D3 -->|Organization created metadata| E3[Organization owns copyright - Marked CC0]
     D3 -->|Contractor created metadata| F3[Remove excessive metadata - publish the record with basic metadata - Marked CC0]
     end
+```
