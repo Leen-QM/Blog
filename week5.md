@@ -1,8 +1,4 @@
 
----
-layout: default
-title: week 2
----
 
 ## **week 2: build an interactive copyright status assessment tool**
 
