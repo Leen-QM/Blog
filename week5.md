@@ -25,7 +25,7 @@ flowchart TD
 
 
 The second flowchart stemmed from the GLAM-E Lab’s Copyright Clearance Handbook, which emphasizes evaluating public domain works, clearing permissions, and understanding specific copyright conditions tied to digital collections.
-![image](https://github.com/user-attachments/assets/a520a23b-836e-489f-9b9b-d545a091f821)
+
 
 
 ```mermaid
