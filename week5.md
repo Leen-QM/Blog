@@ -4,11 +4,11 @@
 
 This week’s task was focused on creating an interactive online copyright assessment tool, aimed at helping users evaluate the copyright status of works within the context of two established frameworks: the QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook for Public Domain Publications of Digital Collections. The overall goal was to combine these two frameworks into a streamlined, user-friendly tool that will make copyright evaluations accessible for a wide range of users.
 
-###Steps to Create the Tool:
+### Steps to Create the Tool:
 
-####Understanding the Frameworks: The first step involved reading the two copyright assessment frameworks: QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook. I reviewed both documents carefully, identifying key questions, decision points, and guidelines in each framework.
+#### Understanding the Frameworks: The first step involved reading the two copyright assessment frameworks: QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook. I reviewed both documents carefully, identifying key questions, decision points, and guidelines in each framework.
 
-####Creating Flowcharts with Mermaid: To visually represent the decision-making process involved in each framework, I created two detailed flowcharts using Mermaid language. These flowcharts would serve as a visual representation of the frameworks, helping users navigate through the copyright assessment process.
+#### Creating Flowcharts with Mermaid: To visually represent the decision-making process involved in each framework, I created two detailed flowcharts using Mermaid language. These flowcharts would serve as a visual representation of the frameworks, helping users navigate through the copyright assessment process.
 
 The first flowchart was based on QM’s EMu Copyright Documentation Guidelines, which focuses on assessing various aspects of a work's copyright status, including permissions, usage rights, and documentation.
 
