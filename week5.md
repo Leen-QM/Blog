@@ -6,9 +6,11 @@ This week’s task was focused on creating an interactive online copyright asses
 
 ### Steps to Create the Tool:
 
-#### Understanding the Frameworks: The first step involved reading the two copyright assessment frameworks: QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook. I reviewed both documents carefully, identifying key questions, decision points, and guidelines in each framework.
+#### 1. Understanding the Frameworks: 
+The first step involved reading the two copyright assessment frameworks: QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook. I reviewed both documents carefully, identifying key questions, decision points, and guidelines in each framework.
 
-#### Creating Flowcharts with Mermaid: To visually represent the decision-making process involved in each framework, I created two detailed flowcharts using Mermaid language. These flowcharts would serve as a visual representation of the frameworks, helping users navigate through the copyright assessment process.
+#### 2. Creating Flowcharts with Mermaid: 
+To visually represent the decision-making process involved in each framework, I created two detailed flowcharts using Mermaid language. These flowcharts would serve as a visual representation of the frameworks, helping users navigate through the copyright assessment process.
 
 The first flowchart was based on QM’s EMu Copyright Documentation Guidelines, which focuses on assessing various aspects of a work's copyright status, including permissions, usage rights, and documentation.
 
@@ -103,9 +105,11 @@ flowchart TD
 ```
 
 
-Building the Interactive Tool: With the flowcharts complete, the next step was to build the interactive assessment tool. Using pull-down menus and checkboxes, I designed the tool so users can input information about a work, such as its usage type, origin, and status of permissions. These inputs will guide the user through the decision tree and determine whether a work is copyrighted, in the public domain, or if certain conditions apply.
+#### 3. Building the Interactive Tool: 
+With the flowcharts complete, the next step was to build the interactive assessment tool. Using pull-down menus and checkboxes, I designed the tool so users can input information about a work. These inputs will guide the user through the decision tree and determine whether a work is copyrighted, in the public domain, or if certain conditions apply.
 
-Integration and Comparison: As an added bonus, I implemented a way to compare the two frameworks side by side. This comparison feature helps users to evaluate the same work according to both the QM’s EMu guidelines and the GLAM-E Lab’s clearance handbook, presenting results for both frameworks in parallel. This side-by-side view not only highlights the differences between the two approaches but also provides more nuanced results for users who may be working in different contexts.
+
+
 
 What I Learned After Finishing the Task:
 
