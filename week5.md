@@ -26,7 +26,7 @@ The next step was to build an interactive assessment tool. Using pull-down menus
 
 ![image](https://github.com/user-attachments/assets/2719bd9c-979a-4ccf-8dbf-da85df3b6d17)
 
-link to the online tool: https://htmlpreview.github.io/?https://github.com/Leen-QM/Copyright-validation/blob/main/main.html
+link to the online tool: [https://htmlpreview.github.io/?https://github.com/Leen-QM/Copyright-validation/blob/main/main.html]
 
 This week, I gained practical experience in using Mermaid for creating flowcharts. The syntax is straightforward, and it’s an effective tool for visualizing decision-making processes.
 
