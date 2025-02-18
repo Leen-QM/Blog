@@ -2,7 +2,7 @@
 
 ## **week 5: build an interactive copyright status assessment tool**
 
-This week’s task was focused on creating an interactive online copyright assessment tool, aimed at helping users evaluate the copyright status of works within the context of two established frameworks: the QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook for Public Domain Publications of Digital Collections. The overall goal was to combine these two frameworks into a streamlined, user-friendly tool that will make copyright evaluations accessible for a wide range of users.
+This week’s task was focused on creating an interactive online copyright assessment tool that would assist users in determining the copyright status of works using two established frameworks: the QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook for Public Domain Publications of Digital Collections. The overall goal was to combine these two frameworks into a simplified, user-friendly tool that will make copyright evaluations accessible for a wide range of users.
 
 ### Steps to Create the Tool:
 
@@ -14,7 +14,6 @@ To visually represent the decision-making process involved in each framework, I 
 
 The first flowchart was based on QM’s EMu Copyright Documentation Guidelines, which focuses on assessing various aspects of a work's copyright status, including permissions, usage rights, and documentation.
 ![image](https://github.com/user-attachments/assets/0137fd6a-646c-4655-82da-2279d465646d)
-
 
 
 The second flowchart stemmed from the GLAM-E Lab’s Copyright Clearance Handbook, which emphasizes evaluating public domain works, clearing permissions, and understanding specific copyright conditions tied to digital collections.
