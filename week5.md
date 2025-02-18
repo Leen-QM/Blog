@@ -1,6 +1,6 @@
 
 
-## **week 2: build an interactive copyright status assessment tool**
+## **week 5: build an interactive copyright status assessment tool**
 
 This week’s task was focused on creating an interactive online copyright assessment tool, aimed at helping users evaluate the copyright status of works within the context of two established frameworks: the QM’s EMu Copyright Documentation Guidelines and the GLAM-E Lab’s Copyright Clearance Handbook for Public Domain Publications of Digital Collections. The overall goal was to combine these two frameworks into a streamlined, user-friendly tool that will make copyright evaluations accessible for a wide range of users.
 
@@ -109,7 +109,7 @@ flowchart TD
 
 
 #### 3. Building the Interactive Tool: 
-With the flowcharts complete, the next step was to build the interactive assessment tool. Using pull-down menus and checkboxes, I designed the tool so users can input information about a work. These inputs will guide the user through the decision tree and determine whether a work is copyrighted, in the public domain, or if certain conditions apply.
+The next step was to build an interactive assessment tool. Using pull-down menus, I designed the tool so users can input information about a work. These inputs will guide the user through the decision tree and determine whether a work is copyrighted, in the public domain, or if certain conditions apply.
 
 
 
