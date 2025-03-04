@@ -6,7 +6,7 @@ The system integrates an RFID wristband, 3D models, and audio guides to create a
 ### Steps to build this prototype:
 
 #### 1. RFID Wristband Integration: 
-he core of this system relies on the RFID wristband, which is scanned by an RFID card reader. Each wristband contains a unique identifier linked to a list of visitors and their prefered language. When the wristband is scanned, it triggers the system to recognize the visitor and load their personalized content.
+This system relies on the RFID wristband, which is scanned by an RFID card reader. Each wristband contains a unique identifier linked to a list of visitors and their prefered language. When the wristband is scanned, it triggers the system to recognize the visitor and load their personalized content.
 
 #### 2. Raspberry Pi Setup:
 I used a Raspberry Pi as the central hub for this prototype. The Raspberry Pi communicates with the RFID reader and a small touchscreen display. It also serves as the server for hosting the website that contains all the 3D models and audio guides.
