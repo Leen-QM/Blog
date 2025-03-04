@@ -12,14 +12,15 @@ he core of this system relies on the RFID wristband, which is scanned by an RFID
 I used a Raspberry Pi as the central hub for this prototype. The Raspberry Pi communicates with the RFID reader and a small touchscreen display. It also serves as the server for hosting the website that contains all the 3D models and audio guides.
 
 #### 3. Website with 3D Models and Audio Guides: 
-Once the RFID wristband is scanned, the Raspberry Pi loads a website that displays a selection of 3D models related to the exhibits and plays audio guides in the language saved on the wristband. This allows visitors to explore and learn about the artifacts through interactive and personalized content.
+Once the RFID wristband is scanned, the Raspberry Pi loads a website that displays a selection of 3D models related to the exhibits, which are fetched from the Sketchfab website and displayed using iframes. This allows for smooth integration and easy viewing of the models directly within the web interface. Additionally, audio guides in the language saved on the wristband are played, offering a personalized and interactive experience. This setup allows visitors to explore and learn about the artifacts in a dynamic way through both visual and auditory content.
 
-#### 4: Language and Content Customization:
+#### 4. Language and Content Customization:
 I used AI tools to convert text into speech, gathering detailed information about each artifact from QM's online collection. I then created an audio guide available in four languages: Arabic, English, Urdu, and French.
 
 
-This week, I gained practical experience in using Mermaid for creating flowcharts. The syntax is straightforward, and it’s an effective tool for visualizing decision-making processes.
+The final prototype successfully demonstrated the potential of combining RFID technology, interactive 3D models, and personalized audio guides to create a more engaging museum experience. Visitors could scan their wristbands to explore artifacts through interactive 3D models and hear detailed audio explanations in their preferred language.
+![image](https://github.com/user-attachments/assets/64e39fc0-eb1a-4073-84b0-0595988a6233)
 
-
+Throughout this project, I gained hands-on experience in integrating RFID technology with a Raspberry Pi to provide personalized experiences based on user interactions with wristbands. I also learned to create a web interface and insert 3D models with iframes, which helped me improve my grasp of web development and third-party content integration. Along the way, I faced challenges such as ensuring smooth hardware-software integration,and managing 3D model loading times. Overcoming these obstacles improved my troubleshooting and problem-solving skills.
 
 
