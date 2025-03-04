@@ -1,5 +1,3 @@
-
-
 ## **week 6: User centered design and quick prototyping, experiment with 3D models**
 
 For my final assignment, I designed an interactive digital experience aimed at enhancing visitor engagement in a museum or exhibition. 
@@ -11,22 +9,14 @@ The system integrates an RFID wristband, 3D models, and audio guides to create a
 he core of this system relies on the RFID wristband, which is scanned by an RFID card reader. Each wristband contains a unique identifier linked to a list of visitors and their prefered language. When the wristband is scanned, it triggers the system to recognize the visitor and load their personalized content.
 
 #### 2. Raspberry Pi Setup:
-To visually represent the decision-making process involved in each framework, I created two detailed flowcharts using Mermaid language. These flowcharts would serve as a visual representation of the frameworks, helping users navigate through the copyright assessment process.
+I used a Raspberry Pi as the central hub for this prototype. The Raspberry Pi communicates with the RFID reader and a small touchscreen display. It also serves as the server for hosting the website that contains all the 3D models and audio guides.
 
-The first flowchart was based on QM’s EMu Copyright Documentation Guidelines, which focuses on assessing various aspects of a work's copyright status, including permissions, usage rights, and documentation.
-![image](https://github.com/user-attachments/assets/0137fd6a-646c-4655-82da-2279d465646d)
+#### 3. Website with 3D Models and Audio Guides: 
+Once the RFID wristband is scanned, the Raspberry Pi loads a website that displays a selection of 3D models related to the exhibits and plays audio guides in the language saved on the wristband. This allows visitors to explore and learn about the artifacts through interactive and personalized content.
 
+#### 4: Language and Content Customization:
+I used AI tools to convert text into speech, gathering detailed information about each artifact from QM's online collection. I then created an audio guide available in four languages: Arabic, English, Urdu, and French.
 
-The second flowchart stemmed from the GLAM-E Lab’s Copyright Clearance Handbook, which emphasizes evaluating public domain works, clearing permissions, and understanding specific copyright conditions tied to digital collections.
-
-flow chart: [glam-e lab flow chart](https://github.com/Leen-QM/Copyright-validation/blob/main/glam-e%20lab%20Copyright/glam-e%20lab%20copyright.md)
-
-#### 3. Building the Interactive Tool: 
-The next step was to build an interactive assessment tool. Using pull-down menus, I designed the tool so users can input information about a work. These inputs will guide the user through the decision tree and determine whether a work is copyrighted, in the public domain, or if certain conditions apply.
-
-![image](https://github.com/user-attachments/assets/2719bd9c-979a-4ccf-8dbf-da85df3b6d17)
-
-link to the online tool: [online copyright assessment tool](https://htmlpreview.github.io/?https://github.com/Leen-QM/Copyright-validation/blob/main/main.html)
 
 This week, I gained practical experience in using Mermaid for creating flowcharts. The syntax is straightforward, and it’s an effective tool for visualizing decision-making processes.
 
