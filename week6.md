@@ -21,6 +21,4 @@ I used AI tools to convert text into speech, gathering detailed information abou
 The final prototype successfully demonstrated the potential of combining RFID technology, interactive 3D models, and personalized audio guides to create a more engaging museum experience. Visitors could scan their wristbands to explore artifacts through interactive 3D models and hear detailed audio explanations in their preferred language.
 ![image](https://github.com/user-attachments/assets/64e39fc0-eb1a-4073-84b0-0595988a6233)
 
-Throughout this project, I gained hands-on experience in integrating RFID technology with a Raspberry Pi to provide personalized experiences based on user interactions with wristbands. I also learned to create a web interface and insert 3D models with iframes, which helped me improve my grasp of web development and third-party content integration. Along the way, I faced challenges such as ensuring smooth hardware-software integration,and managing 3D model loading times. Overcoming these obstacles improved my troubleshooting and problem-solving skills.
-
-
+Throughout this project, I gained hands-on experience in integrating RFID technology with a Raspberry Pi to provide personalized experiences based on user interactions with wristbands. I also learned to create a web interface and insert 3D models with iframes, which helped me improve my grasp of web development and third-party content integration.
